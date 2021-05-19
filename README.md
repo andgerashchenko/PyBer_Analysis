@@ -1,1 +1,8 @@
 # PyBer_Analysis
+## Overview of the analysis
+Purpose of the analysis is to determine how the data differs by city type and how those differences can be used by decision-makers at PyBer. During the analysis we heve combined data from two data sets and mofified it for visual understansing and making an output.
+## Results
+As we can see from attached summary table (https://github.com/andgerashchenko/PyBer_Analysis/blob/63351dfdba3d51c1566c121c0653c38dcbfedb43/Resources/PyBer_summery.png), the total rides in Rural area is 5 times less then Suburban, and Suburban rides count almost 3 times less then Urban. However fares per ride and per driver have oposit dynamic, Rural the highest  Urban the lowest fares. This difference may be caused by ride duration. Distance between locations in suburban area is often greater then in city.
+Looking on this line chart we can see the similar finantial difference as well. (https://github.com/andgerashchenko/PyBer_Analysis/blob/63351dfdba3d51c1566c121c0653c38dcbfedb43/analysis/PyBer_fare_summary.png). Also the time dependent dynamic reveals correlation between all tree types. That explains that demand is satisfied and there is no necessity of increasing drivers quantity.
+## Summary
+The analysis showing sertain difference between city types. First of all drives working in urban and suburban area receive less fare then rural. In order to reduce this disparity, PyBer managment can work on increasing prices for urban and suburban areas. Also amount of rides in rural area is quite low. This can be resulted by insufficient popularity comparing to competitors. Using intensified marketing and reducing prices can attract additional customers, which will increase total profit from the area. 
